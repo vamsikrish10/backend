@@ -1,0 +1,36 @@
+ [{
+  "id":1,
+  "title": "Lexus ES",
+  "year": 2022,
+  "rating":4.8,
+  "published": true
+
+},
+{
+  "id":2,
+  "title": "Mercedes-Benz E-Class",
+  "year": 2021,
+  "rating":4.7,
+  "published": true
+},
+{
+  "id":3,
+  "title": "BMW 5 Series",
+  "year": 2022,
+  "rating":4.5,
+  "published": true
+},
+{
+  "id":4,
+  "title": "Audi A6",
+  "year": 2021,
+  "rating":4.4,
+  "published": true
+},
+{
+  "id":5,
+  "title": "Genesis G80",
+  "year": 2022,
+  "rating":4.3,
+  "published": false
+}]
